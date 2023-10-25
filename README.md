@@ -20,7 +20,7 @@ Entusiasta por tecnologia.
 
 <p><h1>Status: </h1>
 <div align="center">
-  <a href="https://github.com/FilipeGuizz0">
+  <a href="https://github.com/Diogo30KA">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diogo30KA&theme=tokyonight&show_icons=true" />
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo30KA&layout=compact&theme=tokyonight"/>
